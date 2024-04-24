@@ -11,7 +11,7 @@
           </node>
         </introspection-scope>
       </schema-mapping>
-      <url>jdbc:mysql://localhost:3306/test?serverTimezone=Asia/Novosibirsk</url>
+      <url>jdbc:mysql://localhost:3306/test?serverTimezone=Asia/Novosibirsk?serverTimezone=Asia/Novosibirsk</url>
       <remarks />
       <vm-options />
       <driver-info id="mysql8" />
